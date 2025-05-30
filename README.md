@@ -32,10 +32,7 @@ Welcome to my Embedded Systems Project Tutorial repository! This repo will conta
 > **# TODO:** Provide setup instructions, how to clone the repo, choose a project, build, flash, and run.
 
 ```bash
-# Example (replace with actual paths and commands)
-git clone https://github.com/designbyadil-dev/embedded-systems-tutorial.git
-cd embedded-systems-tutorial/gpio_blink
-make flash
+
 ```
 
 ## 🔧 Tools Required
