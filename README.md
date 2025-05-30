@@ -15,21 +15,20 @@ Welcome to my Embedded Systems Project Tutorial repository! This repo will conta
 
 ## 🌟 Introduction
 
-> **# TODO:** Add an overview of the tutorial purpose, target audience, supported platforms, and learning outcomes.
-
+> **# TODO:** 
 ## 🚀 Projects
 
-> **# TODO:** List and describe each embedded project (e.g., Blinking LED, UART Communication, SPI/I2C interfacing).
+> **# TODO:** 
 
 ## 📂 Directory Structure
 
 ```
-# TODO: Show how folders are organized, e.g., by functionality or board
+# TODO: 
 ```
 
 ## 🛠 Getting Started
 
-> **# TODO:** Provide setup instructions, how to clone the repo, choose a project, build, flash, and run.
+> **# TODO:** 
 
 ```bash
 
@@ -37,7 +36,7 @@ Welcome to my Embedded Systems Project Tutorial repository! This repo will conta
 
 ## 🔧 Tools Required
 
-> **# TODO:** List toolchains, IDEs, debuggers, hardware requirements, and useful utilities.
+> **# TODO:** 
 
 ## 📧 Contact
 
